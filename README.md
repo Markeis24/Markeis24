@@ -53,9 +53,9 @@ LOCATION: Brazil
 </h2>
 
 ```
-> Conseguir estágio em desenvolvimento
-> Evoluir constantemente
-> Construir soluções eficientes
+> Secure a development internship
+> Constantly evolve
+> Build efficient solutions
 ```
 
 ---
@@ -71,9 +71,9 @@ LOCATION: Brazil
 
 [ SPARTAN RANGERS ]
 
-Unidade de elite
+Elite unit
 
-Foco em disciplina, estratégia e resistência
+Focus on discipline, strategy, and resilience.
 
 ---
 
