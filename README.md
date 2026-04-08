@@ -146,13 +146,13 @@ HTML/CSS   ██████░░░░ 60%
   SYSTEM LOG
 </h2>
 
-```
-> booting system...
-> loading modules...
-> connecting to database...
-> running queries...
-> system ready.
-```
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Markeis24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&icon_color=ff0000"/>
+</p>
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Markeis24&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9"/>
+</p>
 
 ---
 
