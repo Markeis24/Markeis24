@@ -181,6 +181,12 @@ NEXT:
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Markeis24/Markeis24/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
 <h2>
   <img src="assets/atention.png" width="35px">
   FINAL TRANSMISSION
