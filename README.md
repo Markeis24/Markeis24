@@ -198,6 +198,6 @@ NEXT:
 </h2>
 
 ```
-EMAIL: seuemail@email.com
-LINKEDIN: https://linkedin.com/in/seu-link
+EMAIL: giovannamrodrigues2006@gmail.com
+LINKEDIN: www.linkedin.com/in/giovanna-marques-221998397
 ```
