@@ -42,7 +42,7 @@ LOCATION: Brazil
 </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite,html,css,git,github,javascript,postman,idea,figma" />
 </p>
 
 ---
