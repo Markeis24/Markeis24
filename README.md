@@ -85,6 +85,9 @@ Focus on discipline, strategy, and resilience.
 <p align="center">
   <img src="assets/shotgun2.png" width="800px">
 </p>
+<p align="center">
+  <img src="assets/shotgun3.png" width="800px">
+</p>
 
 </td>
 
