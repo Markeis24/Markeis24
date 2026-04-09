@@ -198,7 +198,7 @@ NEXT:
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&lines=Метро.;это+не+просто+место,+где+мы+прячемся.;Это+наш+дом.;Наша+последняя+надежда." />
+  <img height="145em" src="https://readme-typing-svg.herokuapp.com/?color=FF0000&center=true&lines=Метро.;это+не+просто+место,+где+мы+прячемся.;Это+наш+дом.;Наша+последняя+надежда." />
 </p>
 
 ---
