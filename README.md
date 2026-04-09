@@ -128,13 +128,13 @@ HTML/CSS   ██████░░░░ 60%
 
 ```
 [✔] Fleet Management System
-     → Controle de uso e consumo de viaturas
+     → Vehicle usage and fuel consumption tracking
 
 [✔] Analytical Dashboard
-     → Comparação e análise de dados estratégicos
+     → Comparative analysis and strategic data insights
 
 [✔] SQL Deep Studies
-     → Joins, agregações e performance
+     → Joins, aggregations, and performance optimization
 ```
 
 ---
