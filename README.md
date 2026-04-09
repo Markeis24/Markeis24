@@ -66,7 +66,7 @@ LOCATION: Brazil
 </h2>
 
 <p align="center">
-  <img src="assets/spartans.png" width="180px">
+  <img src="assets/spartanmask.png" width="800px">
 </p>
 
 [ SPARTAN RANGERS ]
