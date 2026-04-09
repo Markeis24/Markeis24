@@ -159,7 +159,7 @@ HTML/CSS   ██████░░░░ 60%
 ---
 
 <h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" width="35px">
+  <img src="assets/2033.png" width="45px">
   ACHIEVEMENTS
 </h2>
 
