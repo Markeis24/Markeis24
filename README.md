@@ -120,7 +120,7 @@ HTML/CSS   ██████░░░░ 60%
 </h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Markeis24&theme=dark&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=AAAAAA&dates=AAAAAA"/>
+  <img src="https://streak-stats.demolab.com?user=Markeis24&theme=dark&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=AAAAAA&dates=AAAAAA"/>
 </p>
 
 ---
