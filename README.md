@@ -1,5 +1,3 @@
-<!-- ☢️ BANNER -->
-
 <p align="center">
   <img src="assets/metro.jpg" width="90%">
 </p>
