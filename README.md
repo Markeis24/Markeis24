@@ -40,11 +40,11 @@ LOCATION: Brazil
 </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,spring,mysql,sqlite,html,css,maven" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,mysql,sqlite,html,css,maven,windows" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,javascript,postman,eclipse,idea,clion,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,javascript,postman,eclipse,idea,clion,vscode,figma" />
 </p>
 
 ---
