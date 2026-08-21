@@ -40,11 +40,11 @@ LOCATION: Brazil
 </h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java,spring,mysql,sqlite,html,css,maven,windows" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,mysql,sqlite,html,css,maven,windows,linux,arch" />
 </p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,javascript,postman,eclipse,idea,clion,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,javascript,postman,eclipse,idea,clion,vscode,figma,ai" />
 </p>
 
 ---
@@ -55,9 +55,10 @@ LOCATION: Brazil
 </h2>
 
 ```
-> Secure a development internship
+> Deepen backend & systems design skills
 > Constantly evolve
-> Build efficient solutions
+> Build efficient, maintainable solutions
+> Contribute to production-grade codebases
 ```
 
 ---
@@ -111,7 +112,9 @@ API STATUS: ████████░░ 80%
 
 LANGUAGES:
 JAVA       █████████░ 90%
+C          ████░░░░░░ 60%
 SQL        ████████░░ 80%
+ORACLE     ███████░░░ 70%
 HTML/CSS   ██████░░░░ 60%
 ```
 
@@ -135,13 +138,13 @@ HTML/CSS   ██████░░░░ 60%
 
 ```
 [✔] Fleet Management System
-     → Vehicle usage and fuel consumption tracking
+     → Real-time vehicle usage & fuel consumption tracking
 
 [✔] Analytical Dashboard
-     → Comparative analysis and strategic data insights
+     → Data-driven insights for strategic decision-making
 
 [✔] SQL Deep Studies
-     → Joins, aggregations, and performance optimization
+     → Advanced joins, aggregations & query performance tuning
 ```
 
 ---
@@ -152,11 +155,10 @@ HTML/CSS   ██████░░░░ 60%
 </h2>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Markeis24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&icon_color=ff0000"/>
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api?username=Markeis24&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&icon_color=ff0000"/>
 </p>
-
 <p align="center">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Markeis24&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9"/>
+  <img height="150em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Markeis24&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9"/>
 </p>
 
 ---
@@ -168,15 +170,15 @@ HTML/CSS   ██████░░░░ 60%
 
 ``` id="achv01"
 [ UNLOCKED ]
-
 ✔ First Backend Project
 ✔ SQL Advanced Queries
 ✔ Dashboard Implementation
 ✔ API Development
+✔ First Internship
 
 NEXT:
 [ ] Deploy Full System
-[ ] First Internship
+[ ] Level Up @ Internship
 ```
 
 </td>
