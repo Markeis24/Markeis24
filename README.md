@@ -26,7 +26,7 @@
 
 ```
 NAME: Giovanna Marques
-CLASS: Backend Developer
+CLASS: Full Stack Developer
 LEVEL: Junior
 STATUS: ONLINE
 LOCATION: Brazil
