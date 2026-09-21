@@ -6,7 +6,7 @@
   <img src="assets/radioactive.png" width="35px">
   MARKEIS24
 </h1>
-<h3 align="center">SYSTEM INTERFACE • BACKEND OPERATOR</h3>
+<h3 align="center">SYSTEM INTERFACE • FULL STACK OPERATOR</h3>
 
 ---
 
@@ -103,7 +103,7 @@ Focus on discipline, strategy, and resilience.
 [ SYSTEM CORE ONLINE ]
 
 USER: Markeis24
-ROLE: Backend Developer
+ROLE: Full Stack Developer
 FOCUS: Java | SQL | APIs
 
 CPU LOAD: ███████░░░ 70%
