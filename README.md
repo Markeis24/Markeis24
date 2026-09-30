@@ -58,7 +58,9 @@ STATUS      : ONLINE
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,docker,oracle" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,docker" />
+  <img src="assets/oracle-database.png" height="48px">
+  <img src="assets/oracle-cloud.png" height="48px">
 </p>
 
 ---
